@@ -327,9 +327,6 @@ window.SLIDES = [
   "type": "text",
   "logo": true,
   "year": "2026",
-  "kicker": "Meda, 1948 — Milano, 2026",
-  "lines": [
-   "Семейная фабрика из Меды, третье поколение. Мебель, которая собирает дом целиком."
-  ]
+  "kicker": "Meda, 1948 — Milano, 2026"
  }
 ];
